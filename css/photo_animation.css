@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: rgba(0, 0, 0, 0.818);
+}
+
 .frame img
 {
     object-fit: contain;
@@ -15,7 +19,7 @@
 .frame
 {
     width: 650px;
-    margin: 200px
+    margin: 200px auto;
 }
 
 .frame .left
